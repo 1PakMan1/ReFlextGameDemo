@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.reflextgamedemo;
+package com.example.reflextgamedemo.google;
 
 import android.content.Context;
 import android.graphics.Canvas;
